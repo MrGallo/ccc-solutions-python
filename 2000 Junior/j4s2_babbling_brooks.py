@@ -1,22 +1,3 @@
-def mock_input():
-    inputs = """3
-10
-20
-30
-99
-1
-50
-88
-3
-88
-2
-77""".split("\n")
-    value = inputs[mock_input.i]
-    mock_input.i += 1
-    return value
-mock_input.i = 0
-input = mock_input
-
 num_streams = int(input())
 stream_flows = []
 for i in range(num_streams):
