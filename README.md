@@ -11,7 +11,7 @@ code in your contest submission.**
 ```python
 
 def mock_input():
-    value = mock_inputs.inputs[mock_input.i]
+    value = mock_input.inputs[mock_input.i]
     mock_input.i += 1
     return value
 mock_input.i = 0
