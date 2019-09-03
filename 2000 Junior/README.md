@@ -2,7 +2,7 @@
 
 - [Junior 1 - Calendar](#junior-1---calendar)
 - [Junior 2 - 9966](#junior-2---9966)
-- [Junior 3/Senior 1- Slot Machines](#junior-3/senior-1---slot-machines)
+- [Junior 3/Senior 1- Slot Machines](#junior-3senior-1---slot-machines)
 
 ## Junior 1 - Calendar
 Simplified. See the `.py` file for more 'advanced' solve.
